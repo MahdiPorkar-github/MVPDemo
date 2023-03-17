@@ -2,8 +2,7 @@
 
 ## 📷 Previews
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88928420/226022859-ed665b00-659b-4148-af8b-c56663eb6da6.mp4
-" alt="drawing" width="270px" />
+<img src="preview/preview.gif"alt="drawing" width="270px" />
 
 </p>
 A sample code for MVP architecture artucle on Medium
